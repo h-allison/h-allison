@@ -4,15 +4,15 @@ Software engineering student at 42 Berlin, focused on low level software develop
 ![collage art banner](images/collage.jpg)
 
 ### 42 Core Curriculum Projects:
-- Webserv: an HTTP 1.0 server, based on nginx | C++
-- Ford Johnson Algorithm: comparison-efficient sorting algorithm | C++
+- [Webserv](https://github.com/jhelbig42/webserv): an HTTP 1.0 server, based on nginx | C++
+- [Ford Johnson Algorithm](https://github.com/h-allison/Ford-Johnson-Algorithm): comparison-efficient sorting algorithm | C++
+- [3DTTT](https://github.com/Aviv-Berlin/42-3d-tic-tac-toe): a 3D tic-tac-toe web app | Typescript, node.js, Express
 - Minishell: a Bash-like shell | C
 - MiniRT: a ray tracer | C
 - FdF: Wireframe model renderer | C
-- 3DTTT: a 3D tic-tac-toe web app | Typescript, node.js, Express
 
 ### Personal Projects:
-- Disarray Desnarler: customizable, solder-it-yourself macropad running QMK
+- [Disarray Desnarler](https://github.com/ZenVega/disarray_desnarler_docs): customizable, solder-it-yourself macropad running QMK
 
 <BR>
 
