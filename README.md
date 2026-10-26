@@ -7,7 +7,7 @@ Software engineering student at 42 Berlin, focused on low level software develop
 - [Webserv](https://github.com/jhelbig42/webserv): an HTTP 1.0 server, based on nginx | C++
 - [Ford Johnson Algorithm](https://github.com/h-allison/Ford-Johnson-Algorithm): comparison-efficient sorting algorithm | C++
 - [3DTTT](https://github.com/Aviv-Berlin/42-3d-tic-tac-toe): a 3D tic-tac-toe web app | Typescript, node.js, Express
-- [Minishell](git@github.com:h-allison/Minishell_42.git): a Bash-like shell | C
+- [Minishell](https://github.com/h-allison/Minishell_42): a Bash-like shell | C
 - [MiniRT](https://github.com/h-allison/MiniRT): a ray tracer | C
 
 ### Personal Projects:
